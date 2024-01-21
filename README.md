@@ -1,4 +1,4 @@
-# Nessus - 
+# Nessus - How To Configure a Vulnerability Scan 
 
 
 A key component of ensuring the security of computer systems and networks is conducting vulnerability assessments. These assessments are designed to identify vulnerabilities, weaknesses, and other security issues that could potentially be exploited by attackers to gain unauthorized access or cause harm to the system.
